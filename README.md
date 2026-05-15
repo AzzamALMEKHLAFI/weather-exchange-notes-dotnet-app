@@ -88,7 +88,9 @@ dotnet-weather-currency-notes
 
 ## Demo
 
-A demo video link was previously included in this repository. It can be added again under this section if needed.
+Watch the demo video:
+
+[Project Demo Video](https://ogrencibartinedu-my.sharepoint.com/:v:/g/personal/21670310160_ogrenci_bartin_edu_tr/ERXe96FbB-NKmNnY3lm5mvMBlZICtqfhGKqKeQQ0PKa2Nw?e=gWWTIx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Author
 
